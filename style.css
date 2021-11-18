@@ -1,0 +1,108 @@
+/*global*/
+
+h1 {
+    text-align: center;
+  }
+  
+  h5 {
+    margin-bottom: 0px;
+    font-weight: bold;
+  }
+  
+  .card-header {
+    color: #000000;
+  }
+  
+  .card-footer {
+    padding: 0;
+    height: 1.5rem;
+  }
+  
+  .card-header {
+    background-color: #f3e1c0;
+    font-weight: bold;
+  }
+  
+  /*months*/
+  #year,
+  #month {
+    font-weight: bold;
+  }
+  
+  .table {
+    
+    font-size: 0.6rem;
+  }
+  
+  .table th {
+    padding: 5px;
+  }
+  
+  .table td {
+    padding: 3px;
+    text-align: left;
+    height: 90px;
+    width: 70px;
+  }
+  
+  td span {
+    padding-right: 5px;
+  }
+  
+  .date {
+    font-size: 1rem;
+    
+  
+  }
+  
+  .date span {
+    padding-left: 5px;
+    padding-right: 5px;
+    
+  }
+  
+  th {
+    font-size: 12px;
+  }
+  
+  .dayNum {
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    color: #000000;
+    width: 100%;
+    height: 25px;
+    background-color: #f3e1c0;
+    padding: 1px;
+    margin-bottom: 2px;
+    border-radius: 4px;
+  }
+  
+  .dayText {
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    width: 100%;
+    height: 18px;
+    background-color: #ccc07b;
+    padding: 1px;
+    margin-bottom: 2px;
+    border-radius: 4px;
+  }
+  .lead{
+    text-align: center;
+  }
+  /*daily planner*/
+  #dayDate {
+    background-color: #d1ecf1 !important;
+    font-weight: bold;
+  }
+  
+  .time {
+    min-width: 100px;
+  }
+  
+  .save {
+    width: 50px;
+  }
